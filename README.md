@@ -1,5 +1,7 @@
 ## About the project
 
+A fastapi project with api integration for Login, Registration, Logout and ChangePassword with Celery configured to send out welcome mail upon successful registration
+
 ### env values
 
 copy the code below into a .env and fill in the missing value
